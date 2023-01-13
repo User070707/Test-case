@@ -1,0 +1,24 @@
+Title 
+Change quantity from basket
+
+Suite
+Shopping basket
+
+Priority
+Medium
+
+Behavior
+Positive
+
+Pre-conditions
+Navigate to https://workout.bg/
+The user is registered
+
+Test Case Steps                                                   Expected result
+Click on the "Протеини" button
+Select "ALLNUTRITION SOY PROTEIN" and click on it
+Select "Вкус - Бял шоколад с ананас"
+Click on the "Купи" button
+Click on "Към Кошницата"
+Select "Количество" add more                                     Quantity changed successfully
+Click on "Обнови"                                                The amount was calculated
