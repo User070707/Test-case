@@ -1,0 +1,23 @@
+Title 
+Payment Method
+
+Suite
+Shopping basket
+
+Priority
+High
+
+Behavior
+Positive
+
+Pre-conditions
+Navigate to https://workout.bg/
+The user is registered
+
+Test Case Steps                                            Expected result
+Click on the "Билки" button
+Select "ASHWAGANDHA 300 MG" and click on it
+Click on the "Купи" button
+Click on "Към Кошницата" button
+Click on "Плащане" button
+Click on "Плащане при доставка"                          The payment type has been selected successfully
