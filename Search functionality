@@ -1,0 +1,20 @@
+Title 
+Searching for " Протеин"
+
+Suite
+Search functionality
+
+Priority
+Medium
+
+Behavior
+Positive
+
+Pre-conditions
+Navigate to https://workout.bg/
+The user is registered
+
+Test Case Steps                                         Expected result
+Click on "Търсене" field
+Write in the field "Протеин"
+Click on enter                                          Search was successful
