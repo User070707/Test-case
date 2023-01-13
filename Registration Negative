@@ -1,0 +1,22 @@
+Title
+Registration with invalid "Password"
+
+Suite
+Registration
+
+Priority
+High
+
+Behavior
+Negative
+
+Pre-conditions
+Navigate to https://workout.bg/
+
+Test Case Steps                                         Expected result
+Click on Registration button
+Click on "Парола"
+Enter invalid "Парола"
+Click on "Въведи отново паролата"
+Enter invalid "Въведи отново паролата"
+Click on the "Продължете" button                        Error message
