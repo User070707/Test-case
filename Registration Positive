@@ -1,0 +1,20 @@
+Title 
+Registration with valid name
+
+Suite
+Registration
+
+Priority
+High
+
+Behavior
+Positive
+
+Pre-conditions
+Navigate to https://workout.bg/
+
+Test Case Steps                                         Expected result
+Click on Registration button
+Enter valid data for "Име"
+Enter valid data for "Фамилия"
+Click on "Продължете" button                            The user is successfully registered
