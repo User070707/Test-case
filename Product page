@@ -1,0 +1,25 @@
+Title
+Selecting the "Умора" fast order
+
+Suite
+Product page
+
+Priority
+High
+
+Behavior
+Positive
+
+Pre-conditions
+Navigate to https://workout.bg/
+The user is registered
+
+Test Case Steps                                         Expected result
+Click on "Проблеми и цели" button
+Select "Умора"
+Scroll and click on the second page
+Select "NEXGEN" and click on it
+On the "Бърза поръчка"
+Enter valid "Име"        
+Enter valid "Телефон"
+Click on "Поръчай" button                              The order has been sent successfully
