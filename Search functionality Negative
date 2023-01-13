@@ -1,0 +1,20 @@
+Title
+Unsuccessful search for "Костюми"
+
+Suite
+Search functionality
+
+Priority
+Medium
+
+Behavior
+Negative
+
+Pre-conditions
+Navigate to https://workout.bg/
+The user is registered
+
+Test Case Steps                                           Expected result
+Click on "Търсене" field
+Write in the field "Костюми"
+Click on enter                                            Error message "Няма намерени резолтати"
